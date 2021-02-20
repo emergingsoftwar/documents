@@ -1,8 +1,8 @@
-Near Vision: Our initial focus in our product is to have a functioning website with a start screen. Our product will have a home button, about section, and game modes section.
+Near Vision: Our initial focus in our product is to have a functioning website with a start screen. Our product will have a home button, about section, settings page,and game modes section.
 The home button will allow the player to return to the inital screen they were presented after the start screen. The about page will describe the team, the reasoning behind 
 the website's creation, and give an intial description of the website. It will give the player all of the information they need. The game modes section will show a list of the 
 gamemodes available to the player and allow the player to select the gamemode of their choosing. It will also allow the player to change their search preferences and view what 
-matches are available. The site is easy to navigate and matching with other players is a seamless process.
+matches are available. The site is easy to navigate and match match the player with others seamlessly.
 
 Far Vision: We will take in game data along with player and user generated behavior profiles to match the player with the teammates that best suit their skill and behavior. 
 The matchmaking system will enable the users find users from their matches and then add them as a friend. The player and thier newly found friends will be able to form groups.
