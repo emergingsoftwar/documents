@@ -29,8 +29,8 @@ The story must include the following items to be considered in "Ready" state
 * User story opening sentence
 * Estimated in story points
 * Acceptance Criteria clearly defined
+* Dependencies are identified
 * Priority is defined
-* Dependencies are listed
 
 ## Rationale for Backlog Order
 The first task that has the at most priority is selecting the frame work that we will use to build the web application in. We have chosen React. This tool allows us to create the
