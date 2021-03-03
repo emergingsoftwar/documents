@@ -20,6 +20,9 @@ These groups can then search for matches together and matchmake with other playe
 This includes the skill level, behavior profile, and playstyle archetype. All of these together will reintroduce the human component to online teammates and improve the players
 experience in online multiplayer.
 
+## Product Backlog
+#### [Product Backlog Items in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
+
 ## Definition of Ready
 The story must include the following items to be considered in "Ready" state
 * Title
@@ -28,9 +31,6 @@ The story must include the following items to be considered in "Ready" state
 * Acceptance Criteria clearly defined
 * Priority is defined
 * Dependencies are listed
-* 
-## Product Backlog
-#### [Product Backlog Items in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
 
 ## Rationale for Backlog Order
 The first task that has the at most priority is selecting the frame work that we will use to build the web application in. We have chosen React. This tool allows us to create the
