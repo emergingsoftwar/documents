@@ -26,8 +26,8 @@ The story must include the following items to be considered in "Ready" state
 * Priority is defined
 
 ## Rationale for Backlog Order
-The first task that has the at most priority is selecting the framework that we will use to build the web application in. We have chosen React. This tool allows us to create the web app that we want to create based on the specification that is required of us. It also allows the web app to easily be integrated with an API of our choosing. Using API allows us to use the tools that are already available in the Web.<br/>
-The next step is deciding on the contents of the web app pages we are creating based on the specifications provided. These pages can range in different formats based on the Product owner needs and our developers choosing.<br/>
+The first task that has the at most priority is selecting the framework that we will use to build the web application in. We have chosen React. This tool allows us to create the web app that we want to create based on the specification that is required of us. It also allows the web app to easily be integrated with an API of our choosing. Using API allows us to use the tools that are already available in the Web.<br/> <br/>
+The next step is deciding on the contents of the web app pages we are creating based on the specifications provided. These pages can range in different formats based on the Product owner needs and our developers choosing.<br/> <br/>
 The aim of the web app is to find players across different games that will be listed on the web app and based on different filters that will be provided match players. The data is gone be extracted from the API of our choosing filtered and displayed for our users.
 
 
