@@ -6,11 +6,12 @@ Gopi Macha:                     Scrum Master<br/>
 Sai Krupa Bariki Vidura:        Development Team<br/>
 Terry Boyett:                   Development Team<br/>
 
-## Near Vision
+## Product Vision
+### Near Vision
 Our initial focus in our product is to have a functioning website with a start screen. Our product will have a home button, about section, settings page, and game modes section.
 The home button will allow the player to return to the initial screen they were presented after the start screen. The about page will describe the team, the reasoning behind the website's creation and give an initial description of the website. It will give the player all the information they need. The game modes section will show a list of the game modes available to the player and allow the player to select the game mode of their choosing. It will also allow the player to change their search preferences and view what matches are available. The site is easy to navigate and match the player with others seamlessly.
 
-## Far Vision
+### Far Vision
 We will take in game data along with player and user generated behavior profiles to match the player with the teammates that best suit their skill and behavior. The matchmaking system will enable the users find users from their matches and then add them as a friend. The player and their newly found friends will be able to form groups. These groups can then search for matches together and matchmake with other players that fit their skill level and behavior. The player will also be able to view their profile. This includes the skill level, behavior profile, and playstyle archetype. All these together will reintroduce the human component to online teammates and improve the players experience in online multiplayer.
 
 ## Product Backlog
