@@ -14,6 +14,9 @@ The home button will allow the player to return to the initial screen they were 
 ### Far Vision
 We will take in game data along with player and user generated behavior profiles to match the player with the teammates that best suit their skill and behavior. The matchmaking system will enable the users find users from their matches and then add them as a friend. The player and their newly found friends will be able to form groups. These groups can then search for matches together and matchmake with other players that fit their skill level and behavior. The player will also be able to view their profile. This includes the skill level, behavior profile, and playstyle archetype. All these together will reintroduce the human component to online teammates and improve the players experience in online multiplayer.
 
+### Stakeholders
+The stakeholders are game players and gaming companies.
+
 ## Product Backlog
 #### [Product Backlog Items in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_backlogs/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
 
