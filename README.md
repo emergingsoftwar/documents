@@ -30,13 +30,13 @@ The story must include the following items to be considered in "Ready" state
 * Priority is defined
 
 ## Rationale for Backlog Order
-We have decided to build the behavioral matching system as a web application. In order to build the web application, the first stories that have the at most priority is selecting the framework that we will use to build the web application and building the initial layout of the web site containing header, footer and place holders for other pages.  <br/>
+We have decided to build the behavioral matching system as a web application. In order to build the web application, the first stories that have the at most priority is selecting the framework that we will use to build the web application and building the initial layout of the web site containing header, footer, contact us, about us and place holders for other pages.  <br/>
 
 The next stories will be about deciding the contents of the web pages we are creating based on the specifications provided and then implementing the functionality. These pages can range in different formats based on the product owner needs. The aim of the web app is to find players across different games that can be matched based on user defined filters. The player's data extracted from external API of our choosing will be filtered and displayed for the users. This data will also be used by the match making algorithm to find potential matches. <br/>
 
 The core functionality can be accomplished by building web pages that can list the games for selection, capture match making preferences for filtering and provide a way to accept or reject the selected matches by viewing profile. The low priority stories related to adding players as friends and forming a group will be implemented in the last sprint after successful implementation of core match making functionality.  <br/>
 
-We have ordered our product backlog items after carefully analyzing the dependencies,  priorities and risks. The first sprint will be primarily focused on building web page layout and adding initial content and then adding game selection page. The second sprint will be focused on implementing the match matching process and building the match selection pages. The third sprint will be focused on adding contact us and about us web pages, implementing the functionality related to adding players as friends and forming groups and end to end testing. <br/>
+We have ordered our product backlog items after carefully analyzing the dependencies,  priorities and risks. The first sprint will be primarily focused on building web page layout and adding initial content and then adding game selection page. The second sprint will be focused on implementing the match matching process and building the match selection pages. The third sprint will be focused on implementing the functionality related to adding players as friends and forming groups and end to end testing. <br/>
 
 
 
