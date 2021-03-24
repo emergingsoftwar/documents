@@ -38,5 +38,5 @@ The core functionality can be accomplished by building web pages that can list t
 
 We have ordered our product backlog items after carefully analyzing the dependencies,  priorities and risks. The first sprint will be primarily focused on building web page layout and adding initial content and then adding game selection page. The second sprint will be focused on implementing the match matching process and building the match selection pages. The third sprint will be focused on implementing the functionality related to adding players as friends and forming groups and end to end testing. <br/>
 
-
+#### [Sprint 1 Mob Programming](https://youtu.be/rVZZJr0eBfw)
 
