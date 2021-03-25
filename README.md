@@ -83,7 +83,7 @@ https://github.com/emergingsoftwar/ReactCode
 * Third party API usage
 ### How can we make those improvements?
 * The stories should be moved to "Done" status once all the tasks are completed
-* Hours should be burned for each task every day.
+* Hours should be burned for each task every day
 * Set up auto deployment using azure pipelines instead of manual deployment
 * Team need to spend some more time to understand the third gaming api that we are using for this application
 
