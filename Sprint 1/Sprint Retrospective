@@ -1,3 +1,17 @@
 What went well during the sprint?
+    Building initial web applicaion
+    Learning the new React framework
+    Mob programming and technical team meetings helped us achieve the sprint goals
+
 Is there anything that can be improved?
+    Story Closures
+    Burning hours
+    Deployment
+    Third party API usage
+
 How can we make those improvements?
+    The stories should be moved to "Done" status once all the tasks are completed
+    Hours should be burned for each task every day
+    Set up auto deployment using azure pipelines instead of manual deployment
+    Team need to spend some more time to understand the third gaming api that we are using for this application
+    
