@@ -1,4 +1,10 @@
 # Gaming Behavioral Matchmaking System
+
+## Working Prototype and Code
+Prototype URL: https://ksuletsgame.azurewebsites.net/about
+
+Code URl: https://github.com/emergingsoftwar/ReactCode
+
 ## Team Name: ES 2021
 ### Team Members:             
 Leul Endashaw:                  Product Owner<br/>
@@ -67,9 +73,6 @@ https://youtu.be/rVZZJr0eBfw
 
 ## Sprint Review Video
 https://web.microsoftstream.com/video/118261d8-2d75-4e11-9496-8de30dd50d1f
-
-## Working Prototype 
-https://github.com/emergingsoftwar/ReactCode
 
 ## Sprint Retrospective
 ### What went well during the sprint?
