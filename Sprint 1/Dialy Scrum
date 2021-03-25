@@ -23,7 +23,6 @@ March 15, 2021
       Terry Boyett: Discussion on UI, application name, and our logo. Beginning implementation of about us page
       Gopi Macha:Get started UI design and api of Call of Duty
       Leul Endashaw: Discuss on UI design, app's name & logo.
-      Phuong Nguyen: Discuss on UI design, app's name & logo. Start working on 'About' page.
 
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: continue working on footer and add placeholders for content and social media links in the wireframes
@@ -36,7 +35,6 @@ March 15, 2021
       Terry Boyett: None at the moment
       Gopi Macha:Finding the Players stats of Call of Duty Api
       Leul Endashaw: 
-      Phuong Nguyen: The team (especially Gopi) is still looking for open-source APIs to fetch the data. Other than that, I think we are on the right track.
     
 March 22, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
@@ -44,18 +42,15 @@ March 22, 2021
       Terry Boyett: Began implementation of matchmaking page.
       Gopi Macha:Some Research About CI/CD
       Leul Endashaw: Finished creating logo and App name
-      Phuong Nguyen: Completing the 'About' page: updating the app's name & logo. Updating page content, such as: 'MISSION' (from Leul), 'OUR STORY' (from Christy). Working on 'Footer'.
-    
+
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: continue working on game selection page and figure out a way to display the avalilable games and results; initially adding drop down list for games
       Terry Boyett: Continue to work on matchmaking page and begin the process of wrapping up this sprint
       Gopi Macha:Done with the Api call from the Application
       Leul Endashaw: Will work on the trello board and user stories creation
-      Phuong Nguyen: Comtinue working on the 'Footer'. Looking for topic and research papers for the team research.
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
       Sai Krupa Bariki Vidura: how to display number of games for selection in an intuitive way, needs discussion with the team to brainstorm ideas.
       Terry Boyett: Same of the others mentioned by other team members, no ther impdediments otherwise.
       Gopi Macha:When click on Azure Devops Continuous Deployment showing errors
       Leul Endashaw:
-      Phuong Nguyen: Gopi has found some open-source APIs for fetching data. Data is looking good so far. No impediment at this time.
