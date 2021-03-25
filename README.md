@@ -39,4 +39,42 @@ The core functionality can be accomplished by building web pages that can list t
 We have ordered our product backlog items after carefully analyzing the dependencies,  priorities and risks. The first sprint will be primarily focused on building web page layout and adding initial content and then adding game selection page. The second sprint will be focused on implementing the match matching process and building the match selection pages. The third sprint will be focused on implementing the functionality related to adding players as friends and forming groups and end to end testing. <br/>
 
 
+# Sprint 1
+## Story Point: Forecast and Rationale 
+### The forecast for the first sprint includes: 
+* Build initail web application: 5 points
+* Create home page and about us page: 3 points
+* Create footor for each page: 2 points
+* Provide game selection: 3 points
+
+These inital tasks create the base for our application. It sets up the initail page the user will see and the first few pages the user will click on to understand the application. It is important to focus on creating a good framework for our application because we could run into other problems if we don't focus on this first and get ahead of ourselves. Being able to select the game is our first task because it how the matchmaking process will start.
+
+## Sprint Product Backlog Tasks
+#### [Sprint Product Backlog Tasks in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_sprints/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Gaming%20Behavioral%20Matchmaking%20System/Sprint%201)
+
+## Kanban Board: Sprint Backlog Tasks
+(https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
+
+## Burndown Chart
+![alt text](/BurnDownChart/Screenshot%20(159).png "Burndown Chart")
+
+## Daily Scrums
+
+## Mob Programming Video
+(https://youtu.be/rVZZJr0eBfw)
+
+## TDD Test 
+
+## Sprint Review Video
+(https://web.microsoftstream.com/video/118261d8-2d75-4e11-9496-8de30dd50d1f)
+
+## Working Prototype 
+(https://github.com/emergingsoftwar/ReactCode)
+
+## Sprint Retrospective
+### What went well during the sprint?
+
+### Is there anything that can be improved?
+
+### How can we make those improvements?
 
