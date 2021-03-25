@@ -53,7 +53,7 @@ These inital tasks create the base for our application. It sets up the initail p
 #### [Sprint Product Backlog Tasks in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_sprints/backlog/Gaming%20Behavioral%20Matchmaking%20System%20Team/Gaming%20Behavioral%20Matchmaking%20System/Sprint%201)
 
 ## Kanban Board: Sprint Backlog Tasks
-(https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
+#### [Kanban Board in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
 
 ## Burndown Chart
 ![alt text](Sprint%201/BurnDownChart/Screenshot%20(159).png "Burndown Chart")
@@ -61,20 +61,29 @@ These inital tasks create the base for our application. It sets up the initail p
 ## Daily Scrums
 
 ## Mob Programming Video
-(https://youtu.be/rVZZJr0eBfw)
+https://youtu.be/rVZZJr0eBfw
 
 ## TDD Test 
 
 ## Sprint Review Video
-(https://web.microsoftstream.com/video/118261d8-2d75-4e11-9496-8de30dd50d1f)
+https://web.microsoftstream.com/video/118261d8-2d75-4e11-9496-8de30dd50d1f
 
 ## Working Prototype 
-(https://github.com/emergingsoftwar/ReactCode)
+https://github.com/emergingsoftwar/ReactCode
 
 ## Sprint Retrospective
 ### What went well during the sprint?
-
+* Building initial web applicaion
+* Learning the new React framework
+* Mob programming and technical team meetings helped us achieve the sprint goals
 ### Is there anything that can be improved?
-
+* Story Closures
+* Burning hours
+* Deployment
+* Third party API usage
 ### How can we make those improvements?
+* The stories should be moved to "Done" status once all the tasks are completed
+* Hours should be burned for each task every day.
+* Set up auto deployment using azure pipelines instead of manual deployment
+* Team need to spend some more time to understand the third gaming api that we are using for this application
 
