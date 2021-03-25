@@ -5,6 +5,9 @@ Prototype URL: https://ksuletsgame.azurewebsites.net/about
 
 Code URl: https://github.com/emergingsoftwar/ReactCode
 
+## Project Documents
+Documents URL: https://github.com/emergingsoftwar/documents
+
 ## Team Name: ES 2021
 ### Team Members:             
 Leul Endashaw:                  Product Owner<br/>
@@ -29,7 +32,7 @@ These inital tasks create the base for our application. It sets up the initail p
 #### [Kanban Board in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
 
 ## Burndown Chart
-![alt text](Sprint%201/BurnDownChart/Screenshot%20(159).png "Burndown Chart")
+![alt text](/Sprint%201/BurnDownChart/Screenshot%20(159).png "Burndown Chart")
 
 ## Daily Scrums
 
