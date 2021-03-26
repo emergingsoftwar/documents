@@ -5,6 +5,9 @@ Prototype URL: https://ksuletsgame.azurewebsites.net/about
 
 Code URl: https://github.com/emergingsoftwar/ReactCode
 
+## Sprint1 Documents
+https://github.com/emergingsoftwar/documents/tree/main/Sprint%201
+
 ## Team Name: ES 2021
 ### Team Members:             
 Leul Endashaw:                  Product Owner<br/>
@@ -64,12 +67,8 @@ These inital tasks create the base for our application. It sets up the initail p
 ## Burndown Chart
 ![alt text](Sprint%201/BurnDownChart/Screenshot%20(159).png "Burndown Chart")
 
-## Daily Scrums
-
 ## Mob Programming Video
 https://youtu.be/rVZZJr0eBfw
-
-## TDD Test 
 
 ## Sprint Review Video
 https://web.microsoftstream.com/video/118261d8-2d75-4e11-9496-8de30dd50d1f
