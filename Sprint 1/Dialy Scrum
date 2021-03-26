@@ -2,13 +2,13 @@ March 08, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: Started working on the home page design and added the initial layout
       Terry Boyett: attended meeting, documented tasks for the upcoming sprint, documented rationale for sprint forecast
-      Gopi Macha:created a new github account and repo.
+      Gopi Macha:created a new github account and repo for React Code.
       Leul Endashaw:Attended meetings, had discussions regarding User Interface designs that are gone be used for the project.
       
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: continue working on home page and create mockups/wireframes and add placeholders for content i.e. text and images; discuss with team about the content of the page
       Terry Boyett: continue working on documentation, continue to look into different API for web application
-      Gopi Macha:creating a new git repo and updating the react code into it
+      Gopi Macha:Started working on home page and attached a image in home page. 
       Leul Endashaw:Tried to find the best API suited for our project.
       
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?   
@@ -21,19 +21,19 @@ March 15, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: Started working on footer design and wireframes    
       Terry Boyett: Discussion on UI, application name, and our logo. Beginning implementation of about us page
-      Gopi Macha:Get started UI design and api of Call of Duty
+      Gopi Macha:Get started UI design 
       Leul Endashaw: Discuss on UI design, app's name & logo.
 
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: continue working on footer and add placeholders for content and social media links in the wireframes
       Terry Boyett: Continue to work on the about us page
-      Gopi Macha:Started to find correct Api in our application
+      Gopi Macha:Started the About Us page development and gatherd the Text about Team Members.
       Leul Endashaw: Started working on app name and logo
 
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
       Sai Krupa Bariki Vidura: None 
       Terry Boyett: None at the moment
-      Gopi Macha:Finding the Players stats of Call of Duty Api
+      Gopi Macha:Usage of React Bootstrao for Responsive pages.
       Leul Endashaw: 
     
 March 22, 2021
@@ -46,7 +46,7 @@ March 22, 2021
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: continue working on game selection page and figure out a way to display the avalilable games and results; initially adding drop down list for games
       Terry Boyett: Continue to work on matchmaking page and begin the process of wrapping up this sprint
-      Gopi Macha:Done with the Api call from the Application
+      Gopi Macha:Started the CI/CD implementation in Azure Devops
       Leul Endashaw: Will work on the trello board and user stories creation
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
