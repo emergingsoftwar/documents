@@ -30,9 +30,10 @@ These inital tasks create the base for our application. It sets up the initail p
 
 ## Kanban Board: Sprint Backlog Tasks
 #### [Kanban Board in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
+![alt text](/Sprint%201/Kanban%20Board.png "Kanban Chart")
 
 ## Burndown Chart
-![alt text](/Sprint%201/BurnDownChart/Screenshot%20(159).png "Burndown Chart")
+![alt text](/Sprint%201/Burndown%20Chart.png "Burndown Chart")
 
 ## Mob Programming Video
 https://youtu.be/rVZZJr0eBfw
