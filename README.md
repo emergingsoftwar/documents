@@ -1,7 +1,7 @@
 # Gaming Behavioral Matchmaking System
 
 ## Working Prototype and Code
-Prototype URL: https://ksuletsgame.azurewebsites.net/about
+Prototype URL: https://ksuletsgame.azurewebsites.net/
 
 Code URl: https://github.com/emergingsoftwar/ReactCode
 
