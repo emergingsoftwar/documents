@@ -1,1 +1,7 @@
+*Matchmaking process: 5 points
+*Provide list of matched players for selection: 5 points
+*Profile Viewer: 3 points
 
+The matchmaking is one of the core components of our application. We will spend the majority of the sprint focusing on this and
+making sure everything works properly. Giving a list of players for the user to pick is also important because it is the base 
+of make later parts of the application. An example of this is the profile viewer that will be completed toward the end of the sprint.
