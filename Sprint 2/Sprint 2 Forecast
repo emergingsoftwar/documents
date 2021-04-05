@@ -4,4 +4,5 @@
 
 The matchmaking is one of the core components of our application. We will spend the majority of the sprint focusing on this and
 making sure everything works properly. Giving a list of players for the user to pick is also important because it is the base 
-of make later parts of the application. An example of this is the profile viewer that will be completed toward the end of the sprint.
+of make later parts of the application. The profile viewer that will be completed during this sprint as well. The list of players
+will need to be working for this part of web app to work. It is imperative that this be completed first in the sprint. 
