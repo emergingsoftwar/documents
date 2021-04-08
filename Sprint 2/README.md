@@ -21,8 +21,8 @@ Terry Boyett:                   Development Team<br/>
 # Sprint 2
 ## Story Point: Forecast and Rationale 
 ### The forecast for the second sprint includes: 
-*Matchmaking process: 5 points
-*Provide list of matched players for selection: 5 points
+*Matchmaking process: 5 points<br/>
+*Provide list of matched players for selection: 5 points<br/>
 *Profile Viewer: 3 points
 
 
