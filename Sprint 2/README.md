@@ -53,9 +53,20 @@ https://web.microsoftstream.com/video/fc5f80d2-3980-493d-8c91-d94c22450cbe
 
 ## Sprint Retrospective
 ### What went well during the sprint?
-
+* Building the match making pages and process
+* Learning the CICD pipelines
+* Story and Task Closures
+* Technical team meetings and frequest touchbase meetings helped us achieve the sprint goals
 ### Is there anything that can be improved?
-
+* Story Pointing
+* Publising test results with coverage
+* Raising the issues early
+* Early analysis of Third Party APIs and frameworks
 ### How can we make those improvements?
+* The conflicting styling and alignment issues could have been avoided by early analysis
+* Mapping of properties whats required vs available from API could have been done early
+* Tests results with coverage can be published to undestand the code coverage
+* Team should consider the complexity of the features before estimating the stories. The filerting functionality in match making page needed lot of effort and took longer than expected.
+
 
 
