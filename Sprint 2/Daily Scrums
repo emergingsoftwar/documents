@@ -1,56 +1,56 @@
-March 29, 2021
+March 31, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-      Sai Krupa Bariki Vidura: 
+      Sai Krupa Bariki Vidura: Created the initial css for the application 
       Terry Boyett: Created sprint 2 forecast and breaking down user stories into tasks
       Gopi Macha:Created the Show More button with functionality
       Leul Endashaw:
       
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-      Sai Krupa Bariki Vidura:
+      Sai Krupa Bariki Vidura: Enhance the css and resolve the conflicting styles with bootstarp
       Terry Boyett: Continue work on player layout design 
       Gopi Macha: Adding the new players data set 20 to existing Data for every Show More click.
       Leul Endashaw:
       
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?   
-      Sai Krupa Bariki Vidura: 
+      Sai Krupa Bariki Vidura:Alignment issues with bootstrap and application css
       Terry Boyett: Had to learn what the "Yesterday's Weather" sprint forecast, figure out CI/CD
       Gopi Macha:NO
       Leul Endashaw:
       
-April 1, 2021
+April 11, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-      Sai Krupa Bariki Vidura:
+      Sai Krupa Bariki Vidura: Define the properties used for the match making process
       Terry Boyett: Finished work on player list layout design, update the kanban board
       Gopi Macha:Created the pipeline for CI with NPM install,build and artifacts.
       Leul Endashaw: 
 
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-      Sai Krupa Bariki Vidura:
+      Sai Krupa Bariki Vidura: Work on mapping required properties vs. available properties from the API
       Terry Boyett: Start on concept for the different player's profiles
       Gopi Macha:Triggered the CD After Successfull CI
       Leul Endashaw: 
 
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
-      Sai Krupa Bariki Vidura:
+      Sai Krupa Bariki Vidura: one-to-one mapping not available for all required properties. Discuss with team about the optimal properties we want to use for the match making
       Terry Boyett: CI/CD is still being researched, need to ask professor a couple of questions on wednesday
       Gopi Macha:
       Leul Endashaw:
     
-April 6, 2021
+April 14, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
-      Sai Krupa Bariki Vidura: 
+      Sai Krupa Bariki Vidura: Link the CICD build test results and publish them as a grapgh on the project dashboard
       Terry Boyett: Player profile concept is complete, getting together items for turning in sprint 2
       Gopi Macha:Add Some Test Cases
       Leul Endashaw: 
       
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
-      Sai Krupa Bariki Vidura: 
+      Sai Krupa Bariki Vidura: Work on enhancing the test suite
       Terry Boyett: Link mob programming and sprint review videos to github
       Gopi Macha:Some research on Test cases to include in Azure
       Leul Endashaw: 
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
-      Sai Krupa Bariki Vidura: 
+      Sai Krupa Bariki Vidura: None
       Terry Boyett: None that I can think of
       Gopi Macha:NO
       Leul Endashaw: 
