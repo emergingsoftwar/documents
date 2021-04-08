@@ -21,9 +21,10 @@ Terry Boyett:                   Development Team<br/>
 # Sprint 2
 ## Story Point: Forecast and Rationale 
 ### The forecast for the second sprint includes: 
-*Matchmaking process: 5 points<br/>
-*Provide list of matched players for selection: 5 points<br/>
-*Profile Viewer: 3 points
+* Matchmaking process: 3 points<br/>
+* Provide list of matched players for selection: 5 points<br/>
+* Profile Viewer: 3 points<br/>
+* CI/CD System: 2 points
 
 
 The matchmaking is one of the core components of our application. We will spend the majority of the sprint focusing on this and making sure everything works properly. Giving a list of players for the user to pick is also important because it is the base of make later parts of the application. The profile viewer that will be completed during this sprint as well. The list of players will need to be working for this part of web app to work. It is imperative that this be completed first in the sprint. 
@@ -39,10 +40,10 @@ The matchmaking is one of the core components of our application. We will spend 
 ![alt text]( "Burndown Chart")
 
 ## Mob Programming Video
-
+https://web.microsoftstream.com/video/53f1426e-f53a-41ed-8242-ae350057f610
 
 ## Sprint Review Video
-
+https://web.microsoftstream.com/video/fc5f80d2-3980-493d-8c91-d94c22450cbe
 
 ## Continuous Integration system 
 
