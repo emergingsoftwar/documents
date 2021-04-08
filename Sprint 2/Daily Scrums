@@ -21,13 +21,13 @@ April 11, 2021
   * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura:
       Terry Boyett: Finished work on player list layout design, update the kanban board
-      Gopi Macha:
+      Gopi Macha:Created the pipeline for CI with NPM install,build and artifacts.
       Leul Endashaw: 
 
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura:
       Terry Boyett: Start on concept for the different player's profiles
-      Gopi Macha:
+      Gopi Macha:Triggered the CD After Successfull CI
       Leul Endashaw: 
 
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
@@ -40,17 +40,17 @@ April 14, 2021
    * What did you do in the last 24 hours that helped the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: 
       Terry Boyett: Player profile concept is complete, getting together items for turning in sprint 2
-      Gopi Macha:Some 
+      Gopi Macha:Add Some Test Cases
       Leul Endashaw: 
       
   * What will you do in the next 24 hours to help the Development Team meet the Sprint goal?
       Sai Krupa Bariki Vidura: 
       Terry Boyett: Link mob programming and sprint review videos to github
-      Gopi Macha:
+      Gopi Macha:Some research on Test cases to include in Azure
       Leul Endashaw: 
     
   * Do you see any impediment that prevents you or the Development Team from meeting the Sprint goal?
       Sai Krupa Bariki Vidura: 
       Terry Boyett: None that I can think of
-      Gopi Macha:
+      Gopi Macha:NO
       Leul Endashaw: 
