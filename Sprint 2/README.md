@@ -37,7 +37,7 @@ The matchmaking is one of the core components of our application. We will spend 
 ![alt text](/Sprint%202/Kanban_Board.png "Kanban Chart")
 
 ## Burndown Chart
-![alt text]( "Burndown Chart")
+![alt text](/Sprint%202/Burndown_Chart.png "Burndown Chart")
 
 ## Mob Programming Video
 https://web.microsoftstream.com/video/53f1426e-f53a-41ed-8242-ae350057f610
