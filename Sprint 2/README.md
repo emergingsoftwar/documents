@@ -34,7 +34,7 @@ The matchmaking is one of the core components of our application. We will spend 
 
 ## Kanban Board: Sprint Backlog Tasks
 #### [Kanban Board in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
-![alt text]( "Kanban Chart")
+![alt text](/Sprint%202/Kanban_Board.png "Kanban Chart")
 
 ## Burndown Chart
 ![alt text]( "Burndown Chart")
@@ -46,10 +46,14 @@ https://web.microsoftstream.com/video/53f1426e-f53a-41ed-8242-ae350057f610
 https://web.microsoftstream.com/video/fc5f80d2-3980-493d-8c91-d94c22450cbe
 
 ## Continuous Integration system 
+https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build?view=pipelines
 
+Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build/results?buildId=21&view=logs&j=275f1d19-1bd8-5591-b06b-07d489ea915a
 
 ## Continuous Deployment system 
+https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_release?_a=releases&view=mine&definitionId=2
 
+Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=17 
 
 ## Sprint Retrospective
 ### What went well during the sprint?
