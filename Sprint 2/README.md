@@ -55,7 +55,7 @@ https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_relea
 
 Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=17 
 
-## Test Run Trends in Azure DevOps
+## Test Runs and Result Trends in Azure DevOps
 
 Test Result Trend Dashboard: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_dashboards/dashboard/b3e6c02f-7928-45aa-a546-d94224327e9f
 ![alt text](/Sprint%202/Test_Results_Trend.png "Test Results Trend")
