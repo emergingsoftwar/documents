@@ -88,4 +88,4 @@ Recent Run:
 * Adding more unit test cases and end-to-end tests
 * More brain storming and desgin sessions before implementing a feature functionality
 * Technical meetings and Mob programming sessions can be extended to make design decisions.
-* Design sessions will also loead to research more on the capabilities of framework
+* Design sessions will also lead to research more on the capabilities of framework
