@@ -35,12 +35,12 @@ group forming design will be created and implemented as well. These two freature
 our contanct button will be created and place on our website's header. 
 
 ## Sprint Product Backlog Tasks
-#### [Sprint Product Backlog Tasks in Azure]
-(https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_sprints/taskboard/Gaming%20Behavioral%20Matchmaking%20System%20Team/Gaming%20Behavioral%20Matchmaking%20System/Sprint%203)
+#### [Sprint Product Backlog Tasks in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_sprints/taskboard/Gaming%20Behavioral%20Matchmaking%20System%20Team/Gaming%20Behavioral%20Matchmaking%20System/Sprint%203)
+![alt text](/Sprint%203/Sprint_Backlog.png "Sprint Backlog")
 
 ## Kanban Board: Sprint Backlog Tasks
-#### [Kanban Board in Azure]
-(https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
+#### [Kanban Board in Azure](https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_boards/board/t/Gaming%20Behavioral%20Matchmaking%20System%20Team/Backlog%20items)
+![alt text](/Sprint%203/Kanban_Board.png "Kanban Chart")
 
 ## Burndown Chart
 
@@ -52,14 +52,14 @@ our contanct button will be created and place on our website's header.
 
 
 ## Continuous Integration system 
+https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build?view=pipelines
 
-
-Recent Run: 
+Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build/results?buildId=27&view=logs&j=275f1d19-1bd8-5591-b06b-07d489ea915a
 
 ## Continuous Deployment system 
+https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_release?_a=releases&view=mine&definitionId=2
 
-
-Recent Release: 
+Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=22
 
 ## Test Runs and Result Trends in Azure DevOps
 
