@@ -54,12 +54,12 @@ our contanct button will be created and place on our website's header.
 ## Continuous Integration system 
 https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build?view=pipelines
 
-Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build/results?buildId=27&view=logs&j=275f1d19-1bd8-5591-b06b-07d489ea915a
+Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build/results?buildId=30&view=logs&j=275f1d19-1bd8-5591-b06b-07d489ea915a
 
 ## Continuous Deployment system 
 https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_release?_a=releases&view=mine&definitionId=2
 
-Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=22
+Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=25
 
 ## Test Runs and Result Trends in Azure DevOps
 
