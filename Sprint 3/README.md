@@ -43,35 +43,35 @@ our contanct button will be created and place on our website's header.
 ![alt text](/Sprint%203/Kanban_Board.png "Kanban Chart")
 
 ## Burndown Chart
-
+![alt text](/Sprint%203/Burndown%20chart%20sprint3.png "Burndown Chart")
 
 ## Mob Programming Video
-
+https://web.microsoftstream.com/video/50e932a6-9201-4f69-8969-9ba92f0d278f
 
 ## Sprint Review Video
-
+https://web.microsoftstream.com/video/defef4be-3dec-41eb-93a7-95a7b5675a43
 
 ## Continuous Integration system 
 https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build?view=pipelines
 
-Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build/results?buildId=30&view=logs&j=275f1d19-1bd8-5591-b06b-07d489ea915a
+Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_build/results?buildId=34&view=logs&j=275f1d19-1bd8-5591-b06b-07d489ea915a
 
 ## Continuous Deployment system 
 https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_release?_a=releases&view=mine&definitionId=2
 
-Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=25
+Recent Release: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_releaseProgress?_a=release-pipeline-progress&releaseId=29
 
 ## Test Runs and Result Trends in Azure DevOps
 
-Test Result Trend Dashboard: 
+Test Result Trend Dashboard: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_dashboards/dashboard/b3e6c02f-7928-45aa-a546-d94224327e9f
+![alt text](/Sprint%203/Test_Results_Trend.png "Test Results Trend")
 
+All Test Cases: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_testManagement/runs?runId=34&_a=resultQuery
+![alt text](/Sprint%203/Test_Results_Recent_Run.png "Test Results Recent Run")
 
-All Test Cases: 
+Test Runs: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_testManagement/runs?_a=runQuery
 
-
-Test Runs: 
-
-Recent Run: 
+Recent Run: https://dev.azure.com/sbarikiv/Gaming%20Behavioral%20Matchmaking%20System/_testManagement/runs?_a=runCharts&runId=34
 
 ## Sprint Retrospective
 ### What went well during the sprint?
